@@ -4,7 +4,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/nicolegs22">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=9333EA&center=true&vCenter=true&width=560&lines=Full+Stack+Developer+%F0%9F%92%BB;Web3+%26+Blockchain+Developer+%E2%9B%93;QA+%26+Testing+Funcional+%F0%9F%A7%AA;Ciberseguridad+%26+Ethical+Hacking+%F0%9F%94%90;Desde+Cochabamba%2C+Bolivia+%F0%9F%87%A7%F0%9F%87%B4" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=9333EA&center=true&vCenter=true&width=580&lines=Full+Stack+Developer+%F0%9F%92%BB;Web3+%26+Blockchain+Developer+%E2%9B%93;DevOps+%26+Cloud+%E2%98%81%EF%B8%8F;QA+%26+Testing+Funcional+%F0%9F%A7%AA;Ciberseguridad+%26+Ethical+Hacking+%F0%9F%94%90;Desde+Cochabamba%2C+Bolivia+%F0%9F%87%A7%F0%9F%87%B4" alt="Typing SVG" />
   </a>
 </p>
 <p align="center">
@@ -21,16 +21,18 @@ const nicole = {
   nombre: "Nicole Gomez Saavedra",
   alias: "nicolegs22",
   ubicacion: "Cochabamba, Bolivia 🇧🇴",
-  rol: "Full Stack Developer",
+  rol: "Full Stack Developer (Freelance)",
   estudios: "Ingeniería de Sistemas — Universidad Católica Boliviana San Pablo",
-  areas: ["Full Stack", "Web3 & Blockchain", "QA", "IA & Data Science", "Ciberseguridad"],
-  aprendiendo: ["Ethical Hacking", "OWASP Top 10", "Next.js 15"],
+  trabajaEn: "Wiserkronox SRL",
+  areas: ["Full Stack", "Web3 & Blockchain", "DevOps", "QA", "IA & Data Science", "Ciberseguridad"],
+  aprendiendo: ["Ethical Hacking", "OWASP Top 10", "Next.js 15", "Supabase + pgvector"],
   pronombres: "she/her",
 };
 ```
  
 - ⛓️ Desarrollo **Web3**: smart contracts, dApps e integración blockchain
-- 🔭 Construyendo plataformas SaaS multi-tenant y sistemas empresariales
+- 🔭 Trabajando en **Dynexa**, plataforma Web3 con NestJS, React Native y contratos en Solidity
+- ⚡ Automatizando pipelines de **CI/CD** con Jenkins, GitHub Actions y Foundry
 - 🧪 Experiencia en **QA**: casos de prueba, validación funcional y pruebas de regresión
 - 🔐 Fortaleciendo conocimientos en **Ethical Hacking** y seguridad de aplicaciones web
 - 🎮 En mis ratos libres: gaming, modding de Minecraft y proyectos visuales
@@ -44,6 +46,33 @@ const nicole = {
 | 🇧🇴 **Hackathon Nacional** | Nacional | Desarrollo de software |
 | 🇧🇴 **Hackathon Nacional** | Nacional | Desarrollo de software |
  
+---
+ 
+## 🚀 Proyectos destacados
+ 
+| Proyecto | Descripción | Stack |
+|---------|-------------|-------|
+| **Dynexa** | Plataforma Web3 con app móvil, POS y smart contracts | `NestJS` `React Native` `Solidity` `Foundry` |
+| **CNDC** | Sistema de gestión de red eléctrica nacional | `Laravel` `Angular` `MySQL` |
+| **IoT ESP32 + AWS** | Control por voz con Alexa, Device Shadow y DynamoDB | `C++` `AWS IoT Core` `Lambda` |
+ 
+---
+ 
+## 💻 Lenguajes de Programación
+ 
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/COBOL-005CA5?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 ---
  
 ## ⛓️ Web3 & Blockchain
@@ -67,50 +96,50 @@ const nicole = {
 - Estándares de tokens y buenas prácticas de seguridad en contratos
 ---
  
-## 💻 Lenguajes de Programación
- 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/COBOL-005CA5?style=for-the-badge&logo=ibm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
----
- 
-## 🚀 Desarrollo Web
+## 🌐 Desarrollo Web
  
 <table>
 <tr>
 <td width="50%" valign="top">
-### 🎨 Frontend
+<h3>🎨 Frontend</h3>
  
+<p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-- Desarrollo de interfaces responsivas
-- Componentización
-- Consumo de APIs REST
-- Manejo de estados
-- Optimización y refactorización de componentes
-- Integración de reportes y dashboards
-- Exportación de información en PDF y Excel
+<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+</p>
+<ul>
+<li>Desarrollo de interfaces responsivas</li>
+<li>Componentización</li>
+<li>Consumo de APIs REST</li>
+<li>Manejo de estados</li>
+<li>Optimización y refactorización de componentes</li>
+<li>Integración de reportes y dashboards</li>
+<li>Exportación de información en PDF y Excel</li>
+</ul>
 </td>
 <td width="50%" valign="top">
-### ⚙️ Backend
+<h3>⚙️ Backend</h3>
  
+<p>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
-- Spring Boot
-- Java REST APIs
-- Arquitectura por capas
-- DTOs y validaciones
-- Lógica de negocio
-- Integración con bases de datos
-- Documentación con Swagger / OpenAPI
+</p>
+<ul>
+<li>Java REST APIs con Spring Boot</li>
+<li>Arquitectura por capas</li>
+<li>DTOs y validaciones</li>
+<li>Lógica de negocio</li>
+<li>Integración con bases de datos</li>
+<li>Documentación con Swagger / OpenAPI</li>
+<li>Diseño y consumo de servicios REST</li>
+</ul>
 </td>
 </tr>
 </table>
@@ -121,16 +150,36 @@ const nicole = {
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 - Diseño de bases de datos relacionales
 - Consultas SQL
+- Modelado de datos
 - Integración de aplicaciones con bases de datos
+---
+ 
+## ☁️ DevOps, Cloud & IoT
+ 
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white" />
+</p>
+- Pipelines de CI/CD con Jenkins y GitHub Actions
+- Despliegue de aplicaciones web
+- Contenedores con Docker
+- Proyectos IoT con ESP32, AWS IoT Core, Lambda y DynamoDB
 ---
  
 ## 🧪 Calidad de Software (QA)
  
-<details open>
-<summary><b>Ver experiencia en QA</b></summary>
 - Diseño y ejecución de casos de prueba
 - Validación funcional de módulos
 - Identificación y documentación de errores
@@ -138,7 +187,6 @@ const nicole = {
 - Verificación de reglas de negocio
 - Pruebas de regresión
 - Elaboración de documentación técnica
-</details>
 ---
  
 ## 🤖 Inteligencia Artificial y Ciencia de Datos
@@ -185,7 +233,6 @@ Actualmente fortaleciendo conocimientos en:
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -197,9 +244,6 @@ Actualmente fortaleciendo conocimientos en:
  
 ## 📂 Áreas en las que he trabajado
  
-<details>
-<summary><b>Desplegar lista</b></summary>
-<br>
 | | |
 |---|---|
 | ✅ Desarrollo Full Stack | ✅ Integración de Frontend y Backend |
@@ -209,27 +253,22 @@ Actualmente fortaleciendo conocimientos en:
 | ✅ Control de versiones con Git | ✅ Documentación técnica |
 | ✅ Resolución de incidencias técnicas | ✅ Desarrollo Web3 y smart contracts |
  
-</details>
 ---
  
 ## 💡 Habilidades Técnicas
  
-<details>
-<summary><b>Desplegar lista</b></summary>
-<br>
-- Desarrollo Full Stack
-- Arquitectura de Software
-- Integración de APIs
-- Diseño y consumo de servicios REST
-- Modelado de bases de datos
-- Programación orientada a objetos
-- Debugging y resolución de errores
-- Optimización de código
-- Documentación técnica
-- Testing funcional
-- Control de versiones
-- Aprendizaje autónomo de nuevas tecnologías
-</details>
+<p>
+  <img src="https://img.shields.io/badge/Arquitectura_de_Software-6D28D9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Integración_de_APIs-6D28D9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Modelado_de_bases_de_datos-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/POO-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Debugging-9333EA?style=flat-square" />
+  <img src="https://img.shields.io/badge/Optimización_de_código-9333EA?style=flat-square" />
+  <img src="https://img.shields.io/badge/Testing_funcional-A855F7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Control_de_versiones-A855F7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Documentación_técnica-C084FC?style=flat-square" />
+  <img src="https://img.shields.io/badge/Aprendizaje_autónomo-C084FC?style=flat-square" />
+</p>
 ---
  
 ## 🤝 Habilidades Blandas
