@@ -30,7 +30,6 @@ const nicole = {
 };
 ```
  
-- 🔭 Actualmente construyendo **Altum OS**, una plataforma SaaS multi-tenant para empresas de comercio
 - ⛓️ Trabajando en **Dynexa**, plataforma Web3 con NestJS, React Native y contratos en Solidity
 - ⚡ Automatizando pipelines de CI/CD con **Jenkins**, **GitHub Actions** y **Foundry**
 - 🌱 Explorando **ciberseguridad** y arquitecturas cloud
