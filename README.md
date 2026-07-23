@@ -92,7 +92,6 @@ const nicole = {
  
 | Proyecto | Descripción | Stack |
 |---------|-------------|-------|
-| **Altum OS** | Plataforma SaaS multi-tenant para empresas de comercio | `Next.js 15` `Supabase` `Prisma` `AI SDK` |
 | **Dynexa** | Plataforma Web3 con app móvil, POS y smart contracts | `NestJS` `React Native` `Solidity` `Foundry` |
 | **CNDC** | Sistema de gestión de red eléctrica nacional | `Laravel` `Angular` `MySQL` |
 | **IoT ESP32 + AWS** | Control por voz con Alexa, Device Shadow y DynamoDB | `C++` `AWS IoT Core` `Lambda` |
